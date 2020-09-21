@@ -1,2 +1,2 @@
 # springcloud_eureka
-这是一个springcloud项目，用来学习和了解springcloud用的，后续将尝试多元化事务的管理
+这是一个springcloud项目，用来学习和了解springcloud用的，后续将尝试分布式事务的管理
